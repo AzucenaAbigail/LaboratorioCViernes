@@ -1,8 +1,18 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include <iostream>
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+/* Pratica 5: Actividad #1
+    Azucena Abigail morin Inungaray 1872953 LC-Viernes */
 
-int main(int argc, char *argv[]) {
+int main()
+{
+   int num;
+   char opcion;
+    printf("Introduce un numero entero: ");
+     scanf("%d",num);
+    
+    printf("Desea introducir otro numero:");
+    
+    
+
 	return 0;
 }
